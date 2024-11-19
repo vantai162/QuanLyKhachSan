@@ -55,3 +55,4 @@ C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Memor
 C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_CheckOut.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_CheckOut.resources
