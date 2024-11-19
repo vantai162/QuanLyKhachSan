@@ -87,13 +87,13 @@ namespace QuanLyKhachSan.General
                 query = "INSERT INTO KHACHHANG (HoTen, SoDienThoai, CCCD, GioiTinh, QuocTich, DiaChi, NgaySinh, NgayNhanPhong,MaPhong) " +
                         "VALUES ('" + name + "', '" + mobile + "', '" + cccd + "', '" + gender + "', '" + nation + "', '" + address + "', '" + dob + "', '" + checkin + "','"+rid+"') UPDATE PHONG SET TinhTrang = 'Da Dat' " +
                         "WHERE SoPhong = '"+txtRoomNo.Text+"' ";
-                fn.SetData(query, $"So phong {txtRoomNo.Text}: Dang ky khach hang thanh cong.");
+                fn.SetData(query, $"Số phòng {txtRoomNo.Text}: Đăng ký khách hàng thành công!");
                 ClearAll();
                 
             }
             else
             {
-                MessageBox.Show("Xin vui long nhap day du thong tin!","Thong tin", MessageBoxButtons.OK,MessageBoxIcon.Information);
+                MessageBox.Show("Xin vui lòng nhập đầy đủ thông tin!","Thông báo!", MessageBoxButtons.OK,MessageBoxIcon.Information);
             }
         }
 

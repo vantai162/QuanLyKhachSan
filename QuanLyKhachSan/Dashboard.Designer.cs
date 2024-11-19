@@ -30,8 +30,6 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Dashboard));
-            this.btnExit = new Guna.UI2.WinForms.Guna2Button();
-            this.btnMinisize = new Guna.UI2.WinForms.Guna2Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnEmployee = new Guna.UI2.WinForms.Guna2Button();
             this.btnCustomerDetail = new Guna.UI2.WinForms.Guna2Button();
@@ -40,52 +38,17 @@
             this.btnAddRoom = new Guna.UI2.WinForms.Guna2Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.PanelMoving = new Guna.UI2.WinForms.Guna2Panel();
-            this.uC_AddRoom1 = new QuanLyKhachSan.General.UC_AddRoom();
             this.guna2Elipse1 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.guna2Elipse2 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.uC_CustomerRes1 = new QuanLyKhachSan.General.UC_CustomerRes();
+            this.uC_AddRoom1 = new QuanLyKhachSan.General.UC_AddRoom();
+            this.btnMinisize = new Guna.UI2.WinForms.Guna2Button();
+            this.btnExit = new Guna.UI2.WinForms.Guna2Button();
+            this.guna2Elipse3 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
+            this.uC_CheckOut1 = new QuanLyKhachSan.General.UC_CheckOut();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // btnExit
-            // 
-            this.btnExit.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnExit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(237)))), ((int)(((byte)(205)))));
-            this.btnExit.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnExit.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnExit.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnExit.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnExit.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(237)))), ((int)(((byte)(205)))));
-            this.btnExit.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.btnExit.ForeColor = System.Drawing.Color.White;
-            this.btnExit.Image = global::QuanLyKhachSan.Properties.Resources.cancel;
-            this.btnExit.ImageSize = new System.Drawing.Size(30, 30);
-            this.btnExit.Location = new System.Drawing.Point(1228, 1);
-            this.btnExit.Margin = new System.Windows.Forms.Padding(2);
-            this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(66, 38);
-            this.btnExit.TabIndex = 0;
-            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
-            // 
-            // btnMinisize
-            // 
-            this.btnMinisize.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnMinisize.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(237)))), ((int)(((byte)(205)))));
-            this.btnMinisize.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnMinisize.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnMinisize.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnMinisize.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnMinisize.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(237)))), ((int)(((byte)(205)))));
-            this.btnMinisize.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.btnMinisize.ForeColor = System.Drawing.Color.White;
-            this.btnMinisize.Image = ((System.Drawing.Image)(resources.GetObject("btnMinisize.Image")));
-            this.btnMinisize.ImageSize = new System.Drawing.Size(30, 30);
-            this.btnMinisize.Location = new System.Drawing.Point(1228, 42);
-            this.btnMinisize.Margin = new System.Windows.Forms.Padding(2);
-            this.btnMinisize.Name = "btnMinisize";
-            this.btnMinisize.Size = new System.Drawing.Size(66, 38);
-            this.btnMinisize.TabIndex = 1;
             // 
             // panel1
             // 
@@ -157,6 +120,7 @@
             this.bthCheckOut.Size = new System.Drawing.Size(189, 75);
             this.bthCheckOut.TabIndex = 2;
             this.bthCheckOut.Text = "CheckOut";
+            this.bthCheckOut.Click += new System.EventHandler(this.bthCheckOut_Click);
             // 
             // btnCustomerRes
             // 
@@ -196,10 +160,12 @@
             this.btnAddRoom.Size = new System.Drawing.Size(189, 75);
             this.btnAddRoom.TabIndex = 0;
             this.btnAddRoom.Text = "Add Room";
+            this.btnAddRoom.Click += new System.EventHandler(this.btnAddRoom_Click_1);
             // 
             // panel2
             // 
             this.panel2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel2.Controls.Add(this.uC_CheckOut1);
             this.panel2.Controls.Add(this.uC_CustomerRes1);
             this.panel2.Controls.Add(this.uC_AddRoom1);
             this.panel2.Location = new System.Drawing.Point(21, 149);
@@ -218,14 +184,6 @@
             this.PanelMoving.Size = new System.Drawing.Size(224, 5);
             this.PanelMoving.TabIndex = 4;
             // 
-            // uC_AddRoom1
-            // 
-            this.uC_AddRoom1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(250)))), ((int)(((byte)(224)))));
-            this.uC_AddRoom1.Location = new System.Drawing.Point(-2, -2);
-            this.uC_AddRoom1.Name = "uC_AddRoom1";
-            this.uC_AddRoom1.Size = new System.Drawing.Size(2257, 1443);
-            this.uC_AddRoom1.TabIndex = 0;
-            // 
             // guna2Elipse1
             // 
             this.guna2Elipse1.TargetControl = this;
@@ -242,6 +200,66 @@
             this.uC_CustomerRes1.Size = new System.Drawing.Size(1882, 852);
             this.uC_CustomerRes1.TabIndex = 1;
             this.uC_CustomerRes1.Visible = false;
+            // 
+            // uC_AddRoom1
+            // 
+            this.uC_AddRoom1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(250)))), ((int)(((byte)(224)))));
+            this.uC_AddRoom1.Location = new System.Drawing.Point(-2, -2);
+            this.uC_AddRoom1.Name = "uC_AddRoom1";
+            this.uC_AddRoom1.Size = new System.Drawing.Size(2257, 1443);
+            this.uC_AddRoom1.TabIndex = 0;
+            // 
+            // btnMinisize
+            // 
+            this.btnMinisize.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnMinisize.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(237)))), ((int)(((byte)(205)))));
+            this.btnMinisize.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnMinisize.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnMinisize.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnMinisize.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnMinisize.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(237)))), ((int)(((byte)(205)))));
+            this.btnMinisize.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnMinisize.ForeColor = System.Drawing.Color.White;
+            this.btnMinisize.Image = ((System.Drawing.Image)(resources.GetObject("btnMinisize.Image")));
+            this.btnMinisize.ImageSize = new System.Drawing.Size(30, 30);
+            this.btnMinisize.Location = new System.Drawing.Point(1228, 42);
+            this.btnMinisize.Margin = new System.Windows.Forms.Padding(2);
+            this.btnMinisize.Name = "btnMinisize";
+            this.btnMinisize.Size = new System.Drawing.Size(66, 38);
+            this.btnMinisize.TabIndex = 1;
+            // 
+            // btnExit
+            // 
+            this.btnExit.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnExit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(237)))), ((int)(((byte)(205)))));
+            this.btnExit.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnExit.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnExit.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnExit.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnExit.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(237)))), ((int)(((byte)(205)))));
+            this.btnExit.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.btnExit.ForeColor = System.Drawing.Color.White;
+            this.btnExit.Image = global::QuanLyKhachSan.Properties.Resources.cancel;
+            this.btnExit.ImageSize = new System.Drawing.Size(30, 30);
+            this.btnExit.Location = new System.Drawing.Point(1228, 1);
+            this.btnExit.Margin = new System.Windows.Forms.Padding(2);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(66, 38);
+            this.btnExit.TabIndex = 0;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            // 
+            // guna2Elipse3
+            // 
+            this.guna2Elipse3.TargetControl = this;
+            // 
+            // uC_CheckOut1
+            // 
+            this.uC_CheckOut1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(250)))), ((int)(((byte)(224)))));
+            this.uC_CheckOut1.Location = new System.Drawing.Point(-1, -2);
+            this.uC_CheckOut1.Name = "uC_CheckOut1";
+            this.uC_CheckOut1.Size = new System.Drawing.Size(1882, 852);
+            this.uC_CheckOut1.TabIndex = 2;
+            this.uC_CheckOut1.Visible = false;
             // 
             // Dashboard
             // 
@@ -282,5 +300,7 @@
         private Guna.UI2.WinForms.Guna2Elipse guna2Elipse1;
         private General.UC_CustomerRes uC_CustomerRes1;
         private Guna.UI2.WinForms.Guna2Elipse guna2Elipse2;
+        private Guna.UI2.WinForms.Guna2Elipse guna2Elipse3;
+        private General.UC_CheckOut uC_CheckOut1;
     }
 }

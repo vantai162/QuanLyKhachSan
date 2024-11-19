@@ -14,7 +14,7 @@ namespace QuanLyKhachSan
         protected SqlConnection GetConnection() 
         {
             SqlConnection con = new SqlConnection();
-            con.ConnectionString = "Data Source = TAI\\SQLEXPRESS; Initial Catalog = QuanLyKhachSan; Integrated Security = True";
+            con.ConnectionString = "Data Source = RYHAT; Initial Catalog = QuanLyKhachSan; Integrated Security = True";
             return con;
         }
         public DataSet GetData(String query)

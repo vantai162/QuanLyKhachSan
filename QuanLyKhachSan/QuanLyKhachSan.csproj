@@ -96,6 +96,12 @@
     <Compile Include="General\UC_AddRoom.Designer.cs">
       <DependentUpon>UC_AddRoom.cs</DependentUpon>
     </Compile>
+    <Compile Include="General\UC_CheckOut.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="General\UC_CheckOut.Designer.cs">
+      <DependentUpon>UC_CheckOut.cs</DependentUpon>
+    </Compile>
     <Compile Include="General\UC_CustomerRes.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -112,6 +118,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="General\UC_AddRoom.resx">
       <DependentUpon>UC_AddRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="General\UC_CheckOut.resx">
+      <DependentUpon>UC_CheckOut.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="General\UC_CustomerRes.resx">
       <DependentUpon>UC_CustomerRes.cs</DependentUpon>

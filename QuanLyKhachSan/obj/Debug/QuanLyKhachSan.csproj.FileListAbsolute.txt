@@ -41,3 +41,17 @@ C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Buffe
 C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Memory.xml
 C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Buffers.dll
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Memory.dll
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Buffers.xml
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Memory.xml
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_CheckOut.resources
