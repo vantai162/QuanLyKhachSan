@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|c:\\users\\hoang\\source\\repos\\quanlykhachsan\\quanlykhachsan\\general\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\general\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\quanlykhachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\quanlykhachsan\\general\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\general\\uc_customerres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\quanlykhachsan\\general\\uc_customerres.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\general\\uc_customerres.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\quanlykhachsan\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\quanlykhachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\quanlykhachsan\\general\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D427F826-CD25-48F3-89AF-193A7BDBA5D5}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\general\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 482,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\Dashboard.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\Dashboard.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Dashboard.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T04:13:02.095Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_CustomerRes.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\General\\UC_CustomerRes.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\General\\UC_CustomerRes.cs",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\General\\UC_CustomerRes.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\General\\UC_CustomerRes.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowE4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:44:24.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\Function.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Function.cs",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\Function.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Function.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:19:38.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_CustomerRes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\General\\UC_CustomerRes.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\General\\UC_CustomerRes.cs",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\General\\UC_CustomerRes.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachSan\\General\\UC_CustomerRes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:35:19.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_CustomerRes.resx",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\General\\UC_CustomerRes.resx",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\General\\UC_CustomerRes.resx",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\General\\UC_CustomerRes.resx",
+              "RelativeToolTip": "QuanLyKhachSan\\General\\UC_CustomerRes.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-11-13T04:10:38.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\Dashboard.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\Dashboard.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachSan\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:24:47.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_AddRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\General\\UC_AddRoom.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\General\\UC_AddRoom.cs",
+              "ToolTip": "C:\\Users\\hoang\\source\\repos\\QuanLyKhachSan\\QuanLyKhachSan\\General\\UC_AddRoom.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachSan\\General\\UC_AddRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:09:39.558Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

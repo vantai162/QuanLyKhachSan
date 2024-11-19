@@ -1,0 +1,43 @@
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKh.7BBD220C.Up2Date
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Dashboard.resources
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Form1.resources
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKh.7BBD220C.Up2Date
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_AddRoom.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Dashboard.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_AddRoom.resources
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_CustomerRes.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_CustomerRes.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Buffers.dll
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Memory.dll
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Buffers.xml
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Memory.xml
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
