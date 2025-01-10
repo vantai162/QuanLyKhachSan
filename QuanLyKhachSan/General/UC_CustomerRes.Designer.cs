@@ -180,8 +180,8 @@
             this.txtGender.ItemHeight = 30;
             this.txtGender.Items.AddRange(new object[] {
             "Nam",
-            "Nữ",
-            "Khác"});
+            "Nu",
+            "Khac"});
             this.txtGender.Location = new System.Drawing.Point(60, 599);
             this.txtGender.Margin = new System.Windows.Forms.Padding(4);
             this.txtGender.Name = "txtGender";

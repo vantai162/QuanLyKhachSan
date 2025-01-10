@@ -56,3 +56,15 @@ C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Numer
 C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_CheckOut.resources
 C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_CheckOut.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_CustomerDetails.resources
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_CustomerDetails.resources
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_Employee.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.General.UC_Employee.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Sua.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThemDichVu.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.XuatHoaDon.resources
+C:\Users\hoang\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongKe.resources
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Sua.resources
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThemDichVu.resources
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongKe.resources
+C:\Users\Hao Tran\Downloads\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.XuatHoaDon.resources

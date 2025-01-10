@@ -117,5 +117,7 @@ namespace QuanLyKhachSan.General
         {
             ClearAll();
         }
+
+        
     }
 }
